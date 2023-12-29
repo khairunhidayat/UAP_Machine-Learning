@@ -29,3 +29,9 @@ Aplikasi web Flask (app.py) berfungsi sebagai antarmuka untuk model klasifikasi 
 
 ## Cara Menjalankan
 bash Copy code python app.py Buka browser dan akses [http://127.0.0.1:8000]. Anda dapat mengunggah gambar dan mendapatkan prediksi.
+
+## Local Development
+![Screenshot_18](https://github.com/khairunhidayat/UAP_Machine-Learning/assets/108686270/4c3301f0-96f5-4426-ad93-5acaf410a38e)
+![Screenshot_19](https://github.com/khairunhidayat/UAP_Machine-Learning/assets/108686270/a0f06c91-975d-4485-a22e-7547b3a3a58d)
+
+
